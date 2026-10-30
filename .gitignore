@@ -1,0 +1,4 @@
+data/*.csv
+scaling_*x.csv
+.ipynb_checkpoints/
+__pycache__/
